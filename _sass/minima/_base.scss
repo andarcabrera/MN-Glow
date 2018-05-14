@@ -28,7 +28,7 @@ body {
   background-image: url("/assets/MNGlow-logo.svg");
   background-repeat: no-repeat;
   background-size: auto;
-  background-size: 40%;
+  background-size: contain;
   background-position: center;
   flex-direction: column;
 }
